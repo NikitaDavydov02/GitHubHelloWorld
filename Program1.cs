@@ -7,6 +7,7 @@ namespace GitHelloWorld2
         static void Main(string[] args)
         {
             Console.ReadLine();
+			Console.WriteLine(2);
         }
     }
 }
