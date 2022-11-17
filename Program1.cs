@@ -8,6 +8,7 @@ namespace GitHelloWorld2
         {
             Console.ReadLine();
 			Console.WriteLine(2);
+            Console.WriteLine("First develiper");
         }
     }
 }
